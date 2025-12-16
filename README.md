@@ -112,13 +112,13 @@ I am a passionate third-year Computer Science Engineering student with a strong 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ancysnehaA1426&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=ancysnehaA1426&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ancysnehaA1426&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=ancysneha&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=ancysneha&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ancysneha&layout=compact&theme=dark)
 
 ## 🏆 Competitive Programming
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Madhu_mithra_1426)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/711523bcs006)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ancy_006)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ancy_Sneha)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kit27_cse06)
