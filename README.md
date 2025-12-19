@@ -46,17 +46,17 @@ I am a passionate third-year Computer Science Engineering student with a strong 
 <table>
 <tr>
 <td align="center" width="33%">
-🤖🩺 <b>Flood Detection using LSTM+CNN</b><br/>
+🚨🌊 <b>Flood Detection using LSTM+CNN</b><br/>
 <sub>Built a CNN–LSTM based flood detection system integrated with real-time weather APIs.</sub>
 </td>
 
 <td align="center" width="33%">
-🫁 <b>Maternal Health Risk Prediction</b><br/>
+🩺📈 <b>Maternal Health Risk Prediction</b><br/>
 <sub>A machine learning application that predicts maternal health risk (Low, Medium, or High) using vital health parameters.</sub>
 </td>
 
 <td align="center" width="33%">
-📝 <b>Gamified learning app for PwDs</b><br/>
+♿🎮 <b>Gamified learning app for PwDs</b><br/>
 <sub>A gamified learning app that improves accessibility and engagement for persons with disabilities.</sub>
 </td>
 </tr>
@@ -71,7 +71,7 @@ I am a passionate third-year Computer Science Engineering student with a strong 
 <table>
 <tr>
 <td align="center" width="33%">
-🍽️ <b>Best Bakes</b><br/>
+🍰 <b>Best Bakes</b><br/>
 <sub>A full-stack e-commerce website for Best Bakes enabling online ordering, product management.</sub>
 </td>
 
@@ -100,7 +100,7 @@ I am a passionate third-year Computer Science Engineering student with a strong 
 <table>
 <tr>
 <td align="center" width="50%">
-💊 <b>Mental Fatigue detection</b><br/>
+🧠 <b>Mental Fatigue detection</b><br/>
 <sub>IoT-based mental fatigue detection system using wearable sensors.</sub>
 </td>
 
