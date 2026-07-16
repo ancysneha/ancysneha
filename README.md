@@ -91,6 +91,13 @@ I am a passionate third-year Computer Science Engineering student with a strong 
 
 <td align="center" width="33%"></td>
 </tr>
+<td align="center" width="33%">
+🏠 <b>Tenant Radar</b><br/>
+<sub>An Agentic AI-powered tenant screening platform built with Next.js and MongoDB for intelligent rental application analysis.</sub>
+</td>
+
+<td align="center" width="33%"></td>
+</tr>
 </table>
 
 ---
