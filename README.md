@@ -60,6 +60,13 @@ I am a passionate third-year Computer Science Engineering student with a strong 
 <sub>A gamified learning app that improves accessibility and engagement for persons with disabilities.</sub>
 </td>
 </tr>
+<td align="center" width="33%"></td>
+</tr>
+<td align="center" width="33%">
+🏠 <b>Tenant Radar</b><br/>
+<sub>An Agentic AI-powered tenant screening platform built with Next.js and MongoDB for intelligent rental application analysis.</sub>
+</td>
+
 
 
 </table>
@@ -89,12 +96,6 @@ I am a passionate third-year Computer Science Engineering student with a strong 
 <sub>Personal portfolio showcasing skills and projects</sub>
 </td>
 
-<td align="center" width="33%"></td>
-</tr>
-<td align="center" width="33%">
-🏠 <b>Tenant Radar</b><br/>
-<sub>An Agentic AI-powered tenant screening platform built with Next.js and MongoDB for intelligent rental application analysis.</sub>
-</td>
 
 <td align="center" width="33%"></td>
 </tr>
