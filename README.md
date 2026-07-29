@@ -67,6 +67,19 @@ I am a passionate third-year Computer Science Engineering student with a strong 
 <sub>An Agentic AI-powered tenant screening platform built with Next.js and MongoDB for intelligent rental application analysis.</sub>
 </td>
 
+<td align="center" width="33%">
+   📦🤖<b>Predictive Expiry System</b><br/>
+<sub>An AI-powered inventory management system that predicts product expiry dates and minimizes inventory waste.</sub>
+</td>
+</tr>
+<td align="center" width="33%"></td>
+</tr>
+<td align="center" width="33%">
+   📦 <b>Tenant Radar</b><br/>
+<sub>Helps reduce product wastage by providing smart expiry alerts and efficient stock monitoring.</sub>
+</td>
+
+
 
 
 </table>
